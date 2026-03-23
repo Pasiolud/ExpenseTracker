@@ -1,4 +1,4 @@
-(Project files are in "master" branch due to my mistake)
+(Project files are in "master"(fixed) branch due to my mistake)
 # ExpenseTracker
 Simple react + fastapi project
 This project was primarily meant to practicly use Docker and play a bit with gemini API
