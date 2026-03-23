@@ -13,3 +13,5 @@ Basic CSS,
 sqlLite,
 Docker,
 JWT used for verification 
+
+Now that i look at this the so called SECRET_KEY should be in .env xd
