@@ -7,7 +7,7 @@ This project was primarily meant to practicly use Docker and play a bit with gem
 The project was carried out between January 28 and February 3.
 
 Main tech stack:
-React + Typscript with vite - using axios to ,
+React + Typscript with vite with axios(that didn't age well)
 Python: FastApi, ORM SqlAlchemy and Pydantic for data validation, Passlib, Bcrypt
 Basic CSS,
 sqlLite,
